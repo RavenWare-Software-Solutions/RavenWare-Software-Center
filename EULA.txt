@@ -1,0 +1,59 @@
+RavenWare Software Center End User License Agreement
+
+Last Updated: Sunday, September 20, 2026
+
+This End User License Agreement ("EULA" or "Agreement") is a legal agreement between you (an individual or single entity, "Licensee") and RavenWare Software Solutions ("Licensor") for RavenWare Software Center (the "Product").
+
+PLEASE READ THIS AGREEMENT CAREFULLY. By installing, copying, or otherwise using the Product, you agree to be bound by all terms of this Agreement. If you do not agree, do not install or use the Product, and destroy all copies.
+
+1. License Grant
+
+The Licensor grants you a limited, non-exclusive, non-transferable, revocable license to install and use the Product solely for personal evaluation and non-commercial testing purposes. The Product is provided free of charge, and no license fee is required.
+
+This license does NOT include, and you expressly agree not to:
+
+· Modify, adapt, translate, or create derivative works of the Product;
+· Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Product;
+· Distribute, sublicense, rent, lease, sell, or transfer the Product or any copy thereof;
+· Remove, alter, or obscure any copyright, trademark, or other proprietary notice on the Product;
+· Use the Product for any commercial purpose.
+
+All rights not expressly granted are reserved by the Licensor.
+
+2. Ownership
+
+All title, copyright, and other intellectual property rights in and to the Product and all copies thereof are and shall remain the exclusive property of RavenWare Software Solutions. This Agreement grants you a license to use the Product and does not transfer any ownership to you.
+
+3. Termination
+
+This license terminates automatically if you breach any term of this Agreement, without notice. Upon termination, you must immediately stop using the Product and destroy all copies.
+
+4. Disclaimer of Warranties
+
+THE PRODUCT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR EXPRESSLY DISCLAIMS ALL SUCH WARRANTIES.
+
+5. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY.
+
+IN NO EVENT SHALL THE LICENSOR'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT EXCEED THE AMOUNT ACTUALLY PAID BY YOU FOR THE PRODUCT, WHICH SHALL BE ZERO (0) USD.
+
+6. Governing Law
+
+This Agreement shall be governed by the laws of the United States of America, without regard to its conflict of law rules.
+
+7. Severability
+
+If any provision of this Agreement is held unenforceable, the remaining provisions shall remain in full force and effect.
+
+8. Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties regarding the Product and supersedes all prior or contemporaneous communications, whether oral or written.
+
+---
+
+RavenWare Software Solutions
+Website: https://www.ravenware.org
+Discord: Dev_Knight_
+
+Copyright © 2026 RavenWare Software Solutions. All Rights Reserved.
