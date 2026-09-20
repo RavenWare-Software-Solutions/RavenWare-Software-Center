@@ -8,7 +8,7 @@ RavenWare Software Center is designed to save you time searching for what you ne
 
 Features
 
-· Package Management — Download and manage RavenWare Software packages from one clean GUI.
+· Package Management — Download and manage packages from one clean GUI.
 · Update Notifications — Get notified when updates become available for packages you've downloaded.
 · Self-Updating — The Software Center automatically updates itself.
 · Auto-Refreshing Package List — The package list refreshes every startup, or manually whenever you want.
