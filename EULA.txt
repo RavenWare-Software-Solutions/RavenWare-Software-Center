@@ -54,6 +54,8 @@ This Agreement constitutes the entire agreement between the parties regarding th
 
 RavenWare Software Solutions
 Website: https://www.ravenware.org
-Discord: Dev_Knight_
+Discord: dev_knight_
 
 Copyright © 2026 RavenWare Software Solutions. All Rights Reserved.
+
+---
